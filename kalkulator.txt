@@ -1,0 +1,27 @@
+"kalkulator" Sylwia Byczkowska Tomasz Butkowski Grzegorz Kubiak	
+1. w³¹cz kalkulator "kalkulator.exe"
+2. Wyœwietl panel kalkulatora
+3. Wyœwietl sumê pocz¹tkow¹ =0
+4. Wyœwietl wybran¹ liczbê:
+input:
+- zakres liczb <0;9>
+5. Wybierz dzia³anie
+- je¿eli znak "+" to dodaj liczby
+- je¿eli znak "-" to odejmij liczby
+- je¿eli znak "*" to pomnó¿ liczby
+- je¿eli znak "/" to podziel liczby
+- je¿eli znak "=" to podaj wynik
+- je¿eli znak "C" to skasuj wszystko
+- je¿eli znak "CE" to skasuj ostatni¹ wpisan¹ cyfrê 
+- je¿eli znak "<-" to cofnij ostatnio wpisan¹ cyfrê
+- je¿eli znak "M+" to dodaj liczby z wyœwietlacza do wbudowanej pamiêci kalkulatora
+- je¿eli znak "M-" to odejmij liczbê z wyœwietlacza od wbudowanej pamiêci kalkulatora
+- je¿eli znak "MC" to wyczyœæ pamiêc kalkulatora
+- je¿eli znak "MS" to wyczyœæ pamiêæ kalkulatora i zapisz wartoœci z wyœwietlacza do pamiêci
+- je¿eli znak "MR" to przywróæ na wyœwietlacz liczby z pamiêci
+- je¿eli znak "," po pewnej cyfrze, to oddziel czêœci dzisiêtne, setne itd.
+- je¿eli znak "+-" to zmieñ cyfrê z dodatniej na ujemn¹ lub ujemn¹ na dodatni¹
+- je¿eli znak "1/x" to podziel jedynkê przez wczeœniej wpisan¹ cyfrê,
+- je¿eli znak "(pierwiastka)" to pierwiastkuj cyfrê, liczbê podan¹ wczeœniej
+- je¿eli znak "%" to podziel wczeœniej wybran¹ cyfrê, liczbê przez 100
+6. Wyœwietl wynik na wyœwietlaczu
